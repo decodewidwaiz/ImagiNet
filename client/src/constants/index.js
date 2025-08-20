@@ -46,6 +46,5 @@ export const surpriseMePrompts = [
   'A circus in space with zero-gravity performers and floating tents',
   'A rainforest filled with bio-luminescent dragons curled around trees',
   'A humanoid tree giving a TED talk to woodland creatures, whimsical art',
-  'A knight made of water riding a wave through a glass canyon',
   'A mythical train powered by moonlight crossing a sky bridge at night',
 ];
